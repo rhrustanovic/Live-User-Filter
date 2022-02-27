@@ -57,7 +57,7 @@ padding: 30px 20px;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    max-width: 400px;
+    max-height: 300px;
     overflow-y: auto;
 }
 
